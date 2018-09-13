@@ -12,6 +12,9 @@ https://datos.gob.mx/busca/dataset/organizaciones-de-la-sociedad-civil-osc-con-p
 + Sanción
 + Dependencia que otorgó el apoyo
 
+## ¿Qué otros datos de apoyo existen?
++ DENUE: https://datos.gob.mx/busca/dataset/directorio-estadistico-nacional-de-unidades-economicas-denue-03-2017-por-actividad-economica
+
 # ¿Quién otorga el dataset?
 Instituto Nacional de Desarrollo Social
 
