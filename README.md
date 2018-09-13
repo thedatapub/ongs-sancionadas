@@ -12,6 +12,9 @@ https://datos.gob.mx/busca/dataset/organizaciones-de-la-sociedad-civil-osc-con-p
 + Sanción
 + Dependencia que otorgó el apoyo
 
-# ¿Quién promueve el dataset?
+# ¿Quién otorga el dataset?
 Instituto Nacional de Desarrollo Social
+
+# ¿Quién promueve los retos?
+El Sistema Nacional Anticorrupción
 
